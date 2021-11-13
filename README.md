@@ -1,5 +1,5 @@
-# mpcs51030-2019-winter-final-project-szhou12
-mpcs51030-2019-winter-final-project-szhou12 created by GitHub Classroom
+# Pilot - iOS Game
+
 
 ## Sources
 https://medium.com/@kavithakumarasamy89/skstorereviewcontroller-apple-way-to-request-review-and-rating-inside-ios-app-in-ios-10-3-453a6f897e9d
